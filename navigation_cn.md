@@ -1,0 +1,12 @@
+[首页](index_cn.md)
+[开始](start.md)
+[使用](using_cn.md)
+[价格](pricing.md)
+[开发者](dev_cn.md)
+[投资者](invest.md)
+[常见问题](faq.md)
+[关于](about_cn.md)
+[English](index.html)
+
+[gimmick:Disqus](markdowniowiki)
+[gimmick:theme](cerulean)

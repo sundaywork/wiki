@@ -1,0 +1,6 @@
+{
+    "useSideMenu": true,
+    "lineBreaks": "gfm",
+    "additionalFooterText": "<p style='text-align:right'><img src='assets/img/logo36.png'/> Exharbor &copy;Copyright 2013</p>",
+    "anchorCharacter": "#"
+}
