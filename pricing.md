@@ -1,13 +1,25 @@
 ![logo](assets/img/logo48.png) Pricing
 ==========
 
-/* This page is subject to change at any time. */
+<span style="font-size:10pt; font-style:italic; color: red">Please note this page is inaccurate at this stage and is for your information only. All services are by invitation only and not open to public yet.</span>
 
-Becoming a user of RippleHarbor is free. 
+### Free services
 
-However, a small fee is needed to activate a Ripple address because:
+* To create an account with us is free. 
+* To activate the first account is free based on the following restrictions:
+	* You must provide a valid email and cell phone number and pass the verification
+	* You are not on the black list of the system
+	* If you do not plan to provide these information you can still activate it through external methods
+* To set in-network gateways
 
-* It is intended in the design of Ripple protocol 
-* It is used currently as a purpose to limit the user of this service to the people that really need it
+### Not free services
 
-The link of paying activation fee is coming in next few weeks.
+These services are not free and are charged a small fee to maintain our service:
+
+* To activate more than one account. Each account $5.
+* To setup out-network gateways. each gateway $1.
+
+
+### Paying methods
+
+* todo

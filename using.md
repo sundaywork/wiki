@@ -1,7 +1,7 @@
 ![logo](assets/img/logo48.png) Using
 ==========
 
-/* This page is subject to change at any time. */
+<span style="font-size:10pt; font-style:italic; color: red">Please note this page is inaccurate at this stage and is for your information only. All services are by invitation only and not open to public yet.</span>
 
 Basic info
 ----------

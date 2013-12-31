@@ -1,47 +1,61 @@
 ![logo](assets/img/logo48.png) Getting started
 ==========
 
-/This page is subject to change at any time./
 
-Requirement
+
+<span style="font-size:10pt; font-style:italic; color: red">Please note this page is inaccurate at this stage and is for your information only. All services are by invitation only and not open to public yet.</span>
+
+
+
+Our service is provided in a variety of channels you are familiar already to reduce your learning curve. Our goal is to let everyone get started in 30 seconds and make your first transaction in 3 minutes.
+
+
+
+Texting (SMS)
 ----------
 
-Basic requirements:
+Texting is supported by all cellphones. This interface is supported in US and Canada only.
 
-* You must have an existing IM account such as Google Talk (Hangouts).
-* You must ensure that your account is secured by password or advanced verifications such as 2-step authentication. 
-* You are recommended to provide a valid cell phone number in the US to use full service.
+![](http://www.zwaldtransport.com/images/placeholders/placeholder1.jpg)
 
-You don't need to install any software or app to get started.
+- Send "hi" to (888-123-4567) to get started
 
-Goal: to let everyone get started in 30 seconds
+Email 
+----------
 
-/*to be replaced in tabs for the following */
+![](http://www.zwaldtransport.com/images/placeholders/placeholder1.jpg)
 
-Google Talk (Google Hangouts) users
+- Send "hi" to (fortuneharbor@gmail.com) to get started
+
+Google Talk (Hangouts)
 ---------
 
-- Add /rippleharbor@gmail.com/ into your contact list
-- You will see Ripple Harbor as a friend of you
-- Send /Hi/ to Ripple Harbor
-- Confirm your email address
-- Activate your account. Here are options:
-	- Ask anyone that has activated account already to activate for you
-	- Purchase activation code online
-- Start earn points
-- Spread this service to your friends by invitating people
+Google Hangouts (formerly Google Talk) is an instant chatting service provided by Google.
 
-What are the points
-----------
+![](assets/img/f_new_friend.jpg)
 
-Points are earned by participating in certain activities such as:
+- Add fortuneharbor@gmail.com in Hangouts
+- Send "hi" to get started
+- Follow instructions
 
-* Confirm your identity
-* Invite friends
-* Spread RippleHarbor on SNS networks
+QQ
+--------
 
-or, earned by purchasing goods or services within RippleHarbor network.
+QQ is a popular IM client.
+![](assets/img/qq.png)
 
-Points are awarded by the RippleHarbor system and can be redeemed to real currency such as USD. The base exchange rate is 100 points to 1 USD. Other currency can be refered by the market exchange rate.
+Wechat (Weixin)
+--------
 
-Points are non-transferable to other RippleHarbor accounts.
+Wechat is an emerging IM app.
+
+Whatsapp
+--------
+
+...
+
+Important notice
+---------
+
+* You must provide a valid email account and US cell phone number to receive free activation provided from us.
+* You should care the money in your own pocket. So it is your responsiblity to keep your own accounts secure. For Gmail users, 2-step authentication is strongly recommended.

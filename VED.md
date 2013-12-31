@@ -1,7 +1,7 @@
 Volunteer Enterprise Debt (VED)
 ==========
 
-Exharbor created the concept of Volunteer Enterprise Debt (VED) to help itself grow up. VED is a virtual currency in a form of IOU created within the [Ripple](https://ripple.com) payment network. The issuing of VED is one-time, non repeatable.
+Exharbor created the concept of Volunteer Enterprise Debt (VED) to help itself grow up. VED is a virtual currency in a form of Certification of Ownership (COO, or referred as IOU by Ripple) created within the [Ripple](https://ripple.com) payment network. The issuing of VED is one-time, non repeatable.
 
 Here is how it works:
 
@@ -9,10 +9,10 @@ Let a comapny/orgnization be P:
 
 1. Generate a gateway account G and keep G's secret key unexposed to anyone
 1. Generate a normal account A
-1. G creates IOU of an amount X in currency C to A;
+1. G creates COO of an amount X in currency C to A;
 1. G destory its secret key so that
-	* G can no longer creates more IOU
-	* A do not need to pay back to G to decrease or remove IOU as no one will claim them
+	* G can no longer creates more COO
+	* A do not need to pay back to G to decrease or remove COO as no one will claim them
 1. Now A owns some 'money' that is free:
 	* A can use them to pay people volunteerly work or invest for A
 		* An investor can get some VED from A by donating to the company
