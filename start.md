@@ -16,13 +16,14 @@ Texting (SMS)
 
 Texting is supported by all cellphones. This interface is supported in US and Canada only.
 
-![](http://www.zwaldtransport.com/images/placeholders/placeholder1.jpg)
+![](assets/img/sms.png)
 
-- Send "hi" to (888-123-4567) to get started
+- Send "hi" to (865-622-6206) to get started
 
 Email 
 ----------
 
+Coming soon
 ![](http://www.zwaldtransport.com/images/placeholders/placeholder1.jpg)
 
 - Send "hi" to (fortuneharbor@gmail.com) to get started
@@ -48,11 +49,13 @@ Wechat (Weixin)
 --------
 
 Wechat is an emerging IM app.
+![](assets/img/weixin1.png)
 
 Whatsapp
 --------
 
-...
+Coming soon
+![](http://www.zwaldtransport.com/images/placeholders/placeholder1.jpg)
 
 Important notice
 ---------

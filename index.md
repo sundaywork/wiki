@@ -42,7 +42,7 @@ You get rewards for completing missions and sending payments.
 #### Built in exchange markey
 
 You can exchange to any other currency in the built-in markets.
-![](http://www.zwaldtransport.com/images/placeholders/placeholder1.jpg)
+![](assets/img/gtalk2.png)
 
 ### [Get started](start.md)
 
