@@ -51,6 +51,10 @@ Wechat (Weixin)
 Wechat is an emerging IM app.
 ![](assets/img/weixin1.png)
 
+下一步界面效果
+![](assets/img/weixin-next.jpg)
+
+
 Whatsapp
 --------
 

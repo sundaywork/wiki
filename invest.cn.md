@@ -1,8 +1,10 @@
-投资易港
+投资财富港湾
 ==========
 
 
-易港是一种新型的利益共同体，不同于一般公司，它采用一种首创的[信用币](VED.cn.md)模式来运作和协调投资以及权属关系。在这种关系下，任何早期投资者与易港都没有投资关系，初创人员与易港也没有雇佣关系，一切皆基于自愿和共同的价值认可。
+
+财富港湾同时是一种新型的利益共同体的模式探索，介于传统公司和完全开源项目之间。
+不同于一般公司，它采用一种首创的[信用币](VED.cn.md)模式来运作和协调投资以及权属关系。在这种关系下，任何早期投资者与财富港湾都没有投资关系，初创人员与财富港湾也没有雇佣关系，一切皆基于自愿和共同的价值认可。
 
 共同价值认可：
 
@@ -10,17 +12,20 @@
 1. 由此衍生的新型合作模式将团体的投资者、权益归属者、初创者、经营者、投机者以更透明和高效的方式结合起来，符合全球化的趋势。
 1. 越早发现和认可该价值，并且共同参与扩大该价值的人，有理由在将来获得更高的合理回报。
 
-无论您打算成为我们的用户见证易港成长，还是贡献资金或者投入劳动来发展易港，同时为自己将来积累可能的财富，以下是详细的故事。
+无论您打算成为我们的用户见证财富港湾成长，还是贡献资金或者投入劳动来发展财富港湾，同时为自己将来积累可能的财富，以下是详细的故事。
 
 背景
 ----------
 
-自货币和金融业诞生以来，还没有发生实质性的产业革命。今天的跨过银行和宋朝的银号在运营模式上，并未有本质的不同，无非是把银票变成电子化，可以在网上查，甚至手机查。然而，我们在可以瞬间把电子邮件发到全球任何一个角落的时代，想转一笔真实的钱，所花时间和代价却远远高于电子邮件。为什么？因为传统的金融体系基于的是中央集权式的发行和流通，各系统之间互相封闭，互不信任。因而系统本身可靠性的维持成本和系统间对话的成本极其昂贵。
 
 直到[比特币（Bitcoin）](http://bitcoin.org)出现，或者说Crypto-Currency，基于加密算法的分布式货币出现，这一变革才看到了曙光。在比特币之前，因为财富的敏感性，任何政府或者金融机构都力图把信息隐藏起来，外界知道的信息越少，整个系统越安全。现代密码学已经证明，单纯基于隐藏信息的系统安全方式远不如基于公认领域知识的数学加密方式可靠。比特币诞生以来的几年的零故障运行记录也已经证明分布式的交易系统远比集中式的交易中心可靠和低成本。(待插引用)
 
 另一方面，人们也已经意识到，基于公开算法和算力的货币产生机制所产生的造假难度和公平性远优于金银为基础的传统货币，并且可以避免国家信用引起的动荡(待插引用-塞浦路斯金融动荡)和超发货币引发的全球性通货膨胀竞赛问题。
 
+
+
+
+帮忙翻译以下英文奖励2000 FHC
 
 Despite of the many advantages Bitcoin has, there are some fatal weaknesses of bitcoin: it is not compatible to the existing world currency, the cost of holding and transmitting is too high, and the confirmation of transaction is still too long. [Ripple]( https://ripple.com/) network comes to fix these problems. It is also math-based and decentralized, but moreover friendly to the common world and confirms any transaction in seconds.
 Exharbor serves as a simplified Ripple interface by introducing the ripple network to (1 billion) users in a natural and easy way. This connection means:
