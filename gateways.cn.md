@@ -10,24 +10,53 @@
 
 由于信用证的流通有P2P分布式技术和数字签名技术做保障，使信用证可以跨网关流通且具有不会灭失、无法造假、和不可抵赖性。
 
-以下列出财富港湾支持的网关。如果你想加入此列表，请[与我们联系]。
+以下列出财富港湾支持的网关。如果你想加入此列表，请[与我们联系](contact.cn.md)。
 
 
 中国
 ---------
 
-rippleCN
+**rippleCN**
 CNY, BTC
+
+![logo](http://www.xrpga.org/uploads/1/2/6/3/12630235/1032912.png?73)
+
 网关地址：rnuF96W4SZoCJmbHYBFoJZpR8eCaxNvekK
 
 
-美国
+其他亚太地区
 ---------
 
-SnapSwap
+**RippleHarbor**
+SGD, NZD
+
+![logo](assets/img/logo48.png)
+
+网关地址：rfhsvVV8FtpaZnKUqHtneremwq8byphJ48
+
+美洲
+---------
+
+**SnapSwap**
 USD
+
 ![logo](https://www.snapswap.us/images/34a41fab.snapswapLogo.png)
+
+网关地址：rMwjYedjc7qqtKYVLiAccJSmCwih4LnE2q
+
+**RippleHarbor**
+MXP, BRL
+
+![logo](assets/img/logo48.png)
+
+网关地址：rfhsvVV8FtpaZnKUqHtneremwq8byphJ48
 
 欧洲
 ---------
 
+**BitStamp**
+BTC
+
+![logo](http://www.xrpga.org/uploads/1/2/6/3/12630235/2121955.png?202)
+
+网关地址：rvYAfWj5gh67oV6fW32ZzP3Aw4Eubs59B

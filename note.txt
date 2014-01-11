@@ -1,5 +1,35 @@
-http://dynalon.github.io/mdwiki/#!index.md
+MDWiki改动
 
+标题
 
-https://github.com/jnordberg/wintersmith
+200行
 
+	// -- added by Geliz to set the language of navigation
+	var language = "en";
+	var href = window.location.hash;
+    var file_dot = href.lastIndexOf('.');
+    var lang_dot = href.lastIndexOf('.',file_dot);
+
+    if (lang_dot>0)
+    {
+    	language = href.substring( lang_dot+1, file_dot );
+    }
+    else
+    {
+		var language = window.navigator.userLanguage || window.navigator.language;
+		if (!language)
+		    language = 'en';
+		else
+		    if (language.length>2)
+		        language = language.substring(0,2);
+	}
+    window.language = language;
+    // added by Geliz --
+
+然后搜navigation.md改为
+'navigation.' + window.language + '.md',
+一处
+
+index.md改为
+index.' + window.language + '.md';
+3处

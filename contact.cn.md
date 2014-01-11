@@ -1,6 +1,11 @@
 ![logo](assets/img/logo48.png) 联系我们
 ==========
 
+Email
+----------
+
+sundaywork@gmail.com
+
 QQ群
 ----------
 
@@ -14,5 +19,5 @@ QQ群
 查找"财富港湾"或使用以下二维码
 功能尚在完善中，创建钱包可能有问题
 
-![qr](assets/img/qrcode_for_gh_17d150ee2d03_430.jpg)
+![qr](assets/img/qr.png)
 
